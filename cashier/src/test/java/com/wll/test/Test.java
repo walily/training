@@ -45,7 +45,6 @@ public class Test {
 
     @org.junit.Test
     public void test(){
-//        cashier.print();
         new ReceiptPrinter().output("[ITEM00001, ITEM00001, ITEM00002-3, ITEM00003-5]");
     }
 }

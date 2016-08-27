@@ -1,7 +1,5 @@
 package com.wll.test.cashier;
 
-import com.wll.test.receipt.ReceiptPrinter;
-
 import java.util.HashMap;
 import java.util.Map;
 
@@ -33,7 +31,4 @@ public class Cashier {
         return DiscountType.none;
     }
 
-    public static void print() {
-        new ReceiptPrinter().output("");
-    }
 }
