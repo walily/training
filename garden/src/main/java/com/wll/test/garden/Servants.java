@@ -6,7 +6,7 @@ package com.wll.test.garden;
 public enum Servants implements Servant {
     QingWen {
         public int money_normal(int month) {
-            return month % 2 == 0 ? 900 : 800;
+            return month % 2 == 0 ? 800 : 900;
         }
 
         public int money_reward(int month) {

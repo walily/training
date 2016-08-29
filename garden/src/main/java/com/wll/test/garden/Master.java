@@ -5,4 +5,5 @@ package com.wll.test.garden;
  */
 public interface Master {
     int pay(Servant servant, int month);
+    int servantNumber();
 }
