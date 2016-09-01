@@ -1,9 +1,4 @@
-package com.wll.test;
-
-import com.wll.test.garden.Master;
-import com.wll.test.garden.Masters;
-import com.wll.test.garden.Servant;
-import com.wll.test.garden.Servants;
+package com.wll.test.garden;
 
 import java.util.ArrayList;
 import java.util.List;

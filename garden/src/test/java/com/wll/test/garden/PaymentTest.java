@@ -1,6 +1,5 @@
-import com.wll.test.PaymentCalculator;
-import com.wll.test.garden.Masters;
-import com.wll.test.garden.Servants;
+package com.wll.test.garden;
+
 import org.junit.Assert;
 import org.junit.Test;
 
